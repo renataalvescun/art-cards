@@ -92,6 +92,13 @@ button:hover {
     background-color: rgba(114, 132, 250, 0.682);
 }
 
+#references:hover  {
+    background-color: rgba(159, 250, 114, 0.682);
+}
+#social:hover  {
+    background-color: rgba(243, 72, 249, 0.946);
+}
+
 @media only screen and (max-width: 800px) {
 
     .links-card {
@@ -108,10 +115,4 @@ button:hover {
         height: 55px;
         font-size: 12px;
     }
-}
-#references:hover  {
-    background-color: rgba(159, 250, 114, 0.682);
-}
-#social:hover  {
-    background-color: rgba(243, 72, 249, 0.946);
 }
