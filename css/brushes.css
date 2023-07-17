@@ -91,6 +91,24 @@ button:hover {
 #animation:hover  {
     background-color: rgba(114, 132, 250, 0.682);
 }
+
+@media only screen and (max-width: 800px) {
+
+    .links-card {
+        position: absolute;
+        top: 200px;
+        left: 10px;
+        gap: 11px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button {
+        width: 55px;
+        height: 55px;
+        font-size: 12px;
+    }
+}
 #references:hover  {
     background-color: rgba(159, 250, 114, 0.682);
 }
