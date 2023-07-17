@@ -98,7 +98,7 @@ button:hover {
     background-color: rgba(243, 72, 249, 0.946);
 }
 #brushes:hover {
-    background-color: rgba(249, 147, 193, 0.946);
+    background-color: rgba(249, 147, 193, 0.946); }
 
     @media only screen and (max-width: 800px) {
 
@@ -118,4 +118,4 @@ button:hover {
     }
 }
 
-}
+
