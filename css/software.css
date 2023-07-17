@@ -101,3 +101,21 @@ button:hover {
     background-color: rgba(249, 147, 193, 0.946);
 
 }
+
+@media only screen and (max-width: 800px) {
+
+    .links-card {
+        position: absolute;
+        top: 200px;
+        left: 10px;
+        gap: 11px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button {
+        width: 55px;
+        height: 55px;
+        font-size: 12px;
+    }
+}
