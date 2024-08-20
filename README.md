@@ -32,6 +32,3 @@ O site possui atualmente 7 cards organizados em categorias diferentes: brushes, 
 </p>
 <p align="center">  
 
-Feito com ❤️ por Renata Alves - [Entre em contato!](https://www.linkedin.com/in/renataalvesz/)
-
-</p>
