@@ -20,11 +20,10 @@
 <h2 id="about">
 💻 Sobre o projeto
 </h2>
-O site possui atualmente 7 cards organizados em categorias diferentes: brushes, softwares, referências/pose, texture, pattern e animação. Cada um com os sites e links para auxiliar ilustradores e quem se interessar.
+O site possui atualmente 8 cards organizados em categorias diferentes: brushes, softwares, referências/pose, texture, pattern, animação e assets. Cada um com os sites e links para auxiliar ilustradores e quem se interessar.
 <!-- Layout -->
 
 <h2 id="layout">🎨 Layout</h2>
-
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img src="https://github.com/renataalvescun/art-cards/assets/100436812/06f4b6ff-0d1e-4f29-bae4-51b3db317175" width="777px alt=" Tela 1">
     <img src="https://github.com/renataalvescun/art-cards/assets/100436812/8eae7b92-4615-4747-8bbd-1ce8105afbc9" width="410px" alt="Tela 2">
